@@ -61,6 +61,10 @@
 ###
 <p align="center">"software and cathedrals are much the same — first we build them, then we pray."</p>
 <div align="center">
+  <img height="250" width="500" src="https://media1.tenor.com/m/wDmy7nNY6ZcAAAAd/god-coding.gif"  />
+</div>
+<br clear="both">
+<div align="center">
   <a href="https://www.youtube.com/@raezera" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="47" height="35" alt="youtube logo"  />
   </a>
@@ -77,3 +81,7 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
 </div>
+
+
+###
+
