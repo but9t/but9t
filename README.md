@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="/header.png" height="200" width="1200" alt="Header"   />
+  <img src="/header.png" height="250" width="1200" alt="Header"   />
 </div>
 <h1 align="left">Hi! 👋 I'm Raendy, you can call me rae😊</h1>
 
