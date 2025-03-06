@@ -15,9 +15,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=but9t&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=but9t&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=but9t&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=aura&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=but9t&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=but9t&theme=midnight-purple&hide_border=false"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=but9t&theme=midnight-purple&hide_border=false&include_all_commits=true&count_private=false&layout=compact"  />
 </div>
 
 ###
