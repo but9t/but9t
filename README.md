@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="/banner.png" height="250" width="1200" alt="Header"   />
+  <img src="/banner.png" width="1200" alt="Header"   />
 </div>
-<h1 align="left">Hi! 👋 I'm Raendy, you can call me rae😊</h1>
+<h1 align="left">Hi!👋 I'm Raendy, you can call me rae😊</h1>
 
 ###
 
-<h3 align="left">Front End Developer</h3>
+
 <img align="right" height="150" width="250" src="https://i.pinimg.com/originals/a8/d4/46/a8d446aeaded108a90c974a5d6a356d9.gif"  />
 
 ###
