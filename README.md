@@ -15,8 +15,8 @@
 ###
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=but9t&theme=radical&hide_border=false"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=but9t&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=but9t&theme=radical&hide_border=false" height="200" alt="streak graph"   />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=but9t&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="200" alt="streak graph"  />
 </div>
 
 ###
