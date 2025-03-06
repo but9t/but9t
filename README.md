@@ -3,7 +3,7 @@
 ###
 
 <h3 align="left">Front End Developer</h3>
-<img align="right" height="150" src="https://i.pinimg.com/originals/a8/d4/46/a8d446aeaded108a90c974a5d6a356d9.gif"  />
+<img align="right" height="150" width="400" src="https://i.pinimg.com/originals/a8/d4/46/a8d446aeaded108a90c974a5d6a356d9.gif"  />
 
 ###
 
