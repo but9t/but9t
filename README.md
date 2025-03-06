@@ -7,9 +7,9 @@
 ###
 
 <br clear="both">
-
-<p align="left">• 🌏 I'm based in Yogyakarta, Indonesia<br>• 🖥️ See my portfolio at raedev<br>• 🚀 I'm currently working from home.<br>• 🧠 I'm focused on React path<br>• 🤝 I'm open to collaborating on Projects</p>
 <img align="right" height="150" src="https://i.pinimg.com/originals/a8/d4/46/a8d446aeaded108a90c974a5d6a356d9.gif"  />
+<p align="left">• 🌏 I'm based in Yogyakarta, Indonesia<br>• 🖥️ See my portfolio at raedev<br>• 🚀 I'm currently working from home.<br>• 🧠 I'm focused on React path<br>• 🤝 I'm open to collaborating on Projects</p>
+
 
 ###
 
