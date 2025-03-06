@@ -79,7 +79,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/but9t/raeme/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/but9t/raeme/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/but9t/raeme/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/but9t/raeme/output/github-snake.svg" width="1200" />
 </picture>
 
 ###
