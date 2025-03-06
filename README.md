@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="/header.png" height="250" width="1200" alt="Header"   />
+  <img src="/banner.png" height="250" width="1200" alt="Header"   />
 </div>
 <h1 align="left">Hi! 👋 I'm Raendy, you can call me rae😊</h1>
 
 ###
 
 <h3 align="left">Front End Developer</h3>
-<img align="right" height="160" width="280" src="https://i.pinimg.com/originals/a8/d4/46/a8d446aeaded108a90c974a5d6a356d9.gif"  />
+<img align="right" height="150" width="250" src="https://i.pinimg.com/originals/a8/d4/46/a8d446aeaded108a90c974a5d6a356d9.gif"  />
 
 ###
-<p align="left">• 🌏 I'm based in Yogyakarta, Indonesia<br>• 🖥️ See my portfolio at raedev<br>• 🚀 I'm currently working from home.<br>• 🧠 I'm focused on React path<br>• 🤝 I'm open to collaborating on Projects</p>
+<p align="left">• 🌏 I'm based in Yogyakarta, Indonesia<br>• 🖥️ See my portfolio at <a href="https://raedev.vercel.app/">raedev</a><br>• 🚀 I'm currently working from home.<br>• 🧠 I'm focused on React path<br>• 🤝 I'm open to collaborating on Projects</p>
 
 
 ###
@@ -79,7 +79,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/but9t/raeme/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/but9t/raeme/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/but9t/raeme/output/github-snake.svg" width="1500" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/but9t/raeme/output/github-snake.svg" width="1200" />
 </picture>
 
 ###
