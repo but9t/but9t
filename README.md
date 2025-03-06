@@ -59,7 +59,7 @@
 
 
 ###
-<p align="center">"software and cathedrals are much the same — first we build them, then we pray."</p>
+<p align="center"><em>"app and church are much the same — first we build them, then we pray."</em></p>
 <div align="center">
   <img height="250" width="500" src="https://media1.tenor.com/m/wDmy7nNY6ZcAAAAd/god-coding.gif"  />
 </div>
