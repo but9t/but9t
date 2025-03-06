@@ -6,7 +6,13 @@
 
 ###
 
-<p align="left">• 🌏 I'm based in Yogyakarta, Indonesia<br>• 🖥️ See my portfolio at <a href="https://raedev.vercel.app/">raedev</a><br>• 🚀 I'm currently working from home.<br>• 🧠 I'm focused on React path<br>• 🤝 I'm open to collaborating on Projects</p>
+<br clear="both">
+
+<p align="left">• 🌏 I'm based in Yogyakarta, Indonesia<br>• 🖥️ See my portfolio at raedev<br>• 🚀 I'm currently working from home.<br>• 🧠 I'm focused on React path<br>• 🤝 I'm open to collaborating on Projects</p>
+<img align="right" height="150" src="https://i.pinimg.com/originals/a8/d4/46/a8d446aeaded108a90c974a5d6a356d9.gif"  />
+
+###
+
 
 ###
 
@@ -18,7 +24,7 @@
 
 ###
 
-<img align="left" height="150" src="https://media.giphy.com/media/ohT97gdpR40vK/giphy.gif?cid=ecf05e4704ulvugxr1rl2ncvmt1t3fxz3npsokc7bz0qiqcv&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+<img align="left" height="149" src="https://i.pinimg.com/originals/fe/f4/1f/fef41f9945b81122f30e216d02efd0a7.gif"  />
 
 ###
 
