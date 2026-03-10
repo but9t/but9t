@@ -9,7 +9,7 @@
 <img align="right" height="150" width="280" src="https://i.pinimg.com/originals/fc/21/16/fc2116fb21de12a62d4b36c31bbb1e6f.gif"  />
 
 ###
-<p align="left">🌏 I'm based in Yogyakarta, Indonesia<br>🖥️ See my portfolio at <a href="https://raedev.vercel.app/">raedev</a><br>🚀 I'm currently working from home.<br>🧠 I'm focused on React path<br>🤝 I'm open to collaborating on Projects</p>
+<p align="left">🌏 Based in Yogyakarta, Indonesia<br>🖥️ See my portfolio at <a href="https://raedev.vercel.app/">raedev</a><br>🚀 I'm currently working from home.<br>🧠 I'm focused on React path<br>🤝 I'm open to collaborating on Projects</p>
 
 
 ###
@@ -42,8 +42,6 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" height="30" alt="googlecloud logo"  />
   <img src="https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react" height="30" alt="googlecloud logo"  />
   <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" height="30" alt="googlecloud logo"  />
-  <img src="https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" height="30" alt="googlecloud logo"  />
-</div>
 
 ###
 
